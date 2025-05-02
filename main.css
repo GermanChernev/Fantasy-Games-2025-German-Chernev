@@ -9,6 +9,8 @@ img {
     height: 400px;
     border-radius: 10px;
     float: center;
+    display: block;
+    margin: auto;
 }
 
 header {
