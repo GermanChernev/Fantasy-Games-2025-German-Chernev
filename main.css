@@ -1,12 +1,12 @@
 body {
     font-family: sans-serif;
-    background-color: #5cbeff;
+    background-color: #39abf7;
     float: center;
 }
 
 img {
-    width: 700px;
-    height: 600px;
+    width: 800px;
+    height: 700px;
     border-radius: 10px;
     float: center;
     display: block;
