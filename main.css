@@ -1,29 +1,22 @@
 body {
     font-family: sans-serif;
+    background-color: #0c98f5;
 }
 
 img {
-    width: 40px;
-    height: 40px;
-    margin-top: 30px;
+    width: 500px;
+    height: 400px;
     border-radius: 10px;
 }
 
 header {
-    background-color: #000;
-    margin: 0 auto;
     text-align: center;
     float: center;
     display: flex;
     justify-content: center;
-    border-radius: 35px;
-    position: fixed;
-    top: 1px;
-    width:100%;
 }
 
 header:hover{
-    background-color: black;
     margin: 0 auto;
     text-align: center;
     float: center;
