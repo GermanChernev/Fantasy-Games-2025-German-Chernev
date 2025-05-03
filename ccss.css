@@ -88,10 +88,10 @@ img {
 
 a {
     text-decoration: none;
-    font-size: 20px;
+    font-size: 30px;
     float: center;
     text-align: center;
-    background-color: #000;
+    background-color: #fff;
     color: blue;
     border-radius: 35px;
 }
@@ -99,10 +99,10 @@ a {
 a:hover {
     text-decoration: none;
     color: black;
-    font-size: 25px;
+    font-size: 40px;
     float: center;
     text-align: center;
-    background-color: #000;
+    background-color: #fff;
     border-radius: 35px;
 }
 
