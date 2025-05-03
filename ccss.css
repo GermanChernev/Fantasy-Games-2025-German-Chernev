@@ -91,6 +91,9 @@ a {
     font-size: 20px;
     float: center;
     text-align: center;
+    background-color: #000;
+    color: blue;
+    border-radius: 35px;
 }
 
 a:hover {
@@ -99,6 +102,8 @@ a:hover {
     font-size: 25px;
     float: center;
     text-align: center;
+    background-color: #000;
+    border-radius: 35px;
 }
 
 p {
