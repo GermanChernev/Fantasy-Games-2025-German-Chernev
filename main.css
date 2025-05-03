@@ -13,11 +13,22 @@ img {
     margin: auto;
 }
 
+img:hover::after {
+    width: 1450px;
+    height: 1000px;
+    border-radius: 10px;
+    float: center;
+    display: block;
+    margin: auto;
+    border: #fff solid 2px;
+}
+
 header {
     text-align: center;
     float: center;
     display: flex;
     justify-content: center;
+    background-color: #000;
 }
 
 header:hover{
@@ -27,6 +38,7 @@ header:hover{
     display: flex;
     justify-content: center;
     border-radius: 35px;
+    background-color: #000;
 }
 
 h1 {
@@ -34,6 +46,13 @@ h1 {
     font-size: 50px;
     
 }
+
+h1:hover::after {
+    text-align: center;
+    font-size: 50px;
+    
+}
+
 
 h2 {
     font-size: 24px;
@@ -58,11 +77,20 @@ a:hover {
     text-align: center;
     background-color: #fff;
     border-radius: 35px;
+    
 }
 
 p {
-    font-size: 20px;
+    font-size: 45px;
     text-align: center;
+    background-color: #000;
+}
+
+p:hover::after {
+    font-size: 45px;
+    text-align: center;
+    background-color: #000;
+    border: #fff doble 2px;
 }
 
 footer {
