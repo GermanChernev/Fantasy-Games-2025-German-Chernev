@@ -42,7 +42,7 @@ h2 {
 
 a {
     text-decoration: none;
-    font-size: 20px;
+    font-size: 30px;
     float: center;
     text-align: center;
     background-color: #fff;
@@ -53,7 +53,7 @@ a {
 a:hover {
     text-decoration: none;
     color: black;
-    font-size: 25px;
+    font-size: 40px;
     float: center;
     text-align: center;
     background-color: #fff;
