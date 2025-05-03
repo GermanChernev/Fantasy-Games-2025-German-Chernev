@@ -70,3 +70,18 @@ footer p {
     padding: 5px;
 }
 
+
+.i {
+    border-radius: 35px;
+    border: #000000 solid 1px;
+    display: block;
+    margin: auto;
+    height: 600px;
+    width: 800px;
+}
+
+.z {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
