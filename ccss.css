@@ -25,6 +25,8 @@ header:hover{
 h1 {
     text-align: center;
     font-size: 50px;
+    text-shadow: -4px 2px 0 navy,
+    -8px 6px 0 turquoise;
     
 }
 
@@ -73,7 +75,7 @@ header p:hover{
 
 body {
     font-family: sans-serif;
-    background-color: #20a3fa;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjb-4LQNrr-rBkt9eBO2538GJBIqMcpZtZsg&s);
     float: center;
 }
 
@@ -94,6 +96,8 @@ a {
     background-color: #fff;
     color: blue;
     border-radius: 35px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 5px 0 royalblue;
 }
 
 a:hover {
