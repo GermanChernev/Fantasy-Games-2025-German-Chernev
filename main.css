@@ -70,6 +70,8 @@ a {
     background-color: #fff;
     color: blue;
     border-radius: 35px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 5px 0 royalblue;
 }
 
 a:hover {
@@ -80,7 +82,7 @@ a:hover {
     text-align: center;
     background-color: #fff;
     border-radius: 35px;
-    
+    b
 }
 
 p {
