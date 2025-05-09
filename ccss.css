@@ -74,7 +74,7 @@ header p:hover{
     display: flex;
     justify-content: center;
     padding: 10px;
-     text-decoration: none;
+    text-decoration: none;
     font-size: 30px;
     float: center;
     text-align: center;
@@ -83,7 +83,6 @@ header p:hover{
     border-radius: 35px;
     border: 2px solid black;
     box-shadow: 2px 2px 5px 0 royalblue;
-    ma
 }
 
 .z:hover{
