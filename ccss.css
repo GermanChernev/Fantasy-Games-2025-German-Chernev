@@ -74,8 +74,30 @@ header p:hover{
     display: flex;
     justify-content: center;
     padding: 10px;
+     text-decoration: none;
+    font-size: 30px;
+    float: center;
+    text-align: center;
+    background-color: #fff;
+    color: blue;
+    border-radius: 35px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 5px 0 royalblue;
 }
 
+.z:hover{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    float: center;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 35px;
+    box-shadow: 4px 4px 10px 0 royalblue;
+}
 body {
     font-family: sans-serif;
     background-color: turquoise;
