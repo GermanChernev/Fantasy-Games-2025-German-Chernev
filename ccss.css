@@ -73,7 +73,6 @@ header p:hover{
 .z {
     display: flex;
     justify-content: center;
-    padding: 10px;
     text-decoration: none;
     font-size: 30px;
     float: center;
@@ -83,6 +82,7 @@ header p:hover{
     border-radius: 35px;
     border: 2px solid black;
     box-shadow: 2px 2px 5px 0 royalblue;
+    margin: 10px;
 }
 
 .z:hover{
@@ -121,6 +121,7 @@ p {
 
 footer {
     padding: 10px;
+    margin-top: 30px;
 }
 
 footer p {
