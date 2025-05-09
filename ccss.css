@@ -86,9 +86,11 @@ img {
     width: 1400px;
     height: 1000px;
     border-radius: 10px;
+    border-radius: 10px;
     float: center;
     display: block;
     margin: auto;
+    border: #fff solid 2px;
 }
 
 a {
@@ -111,6 +113,7 @@ a:hover {
     text-align: center;
     background-color: #fff;
     border-radius: 35px;
+    box-shadow: 4px 4px 10px 0 royalblue;
 }
 
 p {
