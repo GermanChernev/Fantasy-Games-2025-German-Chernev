@@ -120,6 +120,13 @@ p {
     text-align: center;
 }
 
+tr {
+    text-align: center;
+    font-size: 50px;
+    text-shadow: -4px 2px 0 navy,
+    -8px 6px 0 turquoise;
+}
+
 footer {
     padding: 10px;
     margin-top: 30px;
