@@ -1,0 +1,132 @@
+header {
+    background-color: #000;
+    margin: 0 auto;
+    text-align: center;
+    float: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 35px;
+    position: fixed;
+    top: 1px;
+    width:100%;
+    background-color: white;
+    background-color: #fff;
+}
+
+header:hover{
+    background-color: black;
+    margin: 0 auto;
+    text-align: center;
+    float: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 35px;
+    background-color: #fff;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    text-shadow: -4px 2px 0 navy,
+    -8px 6px 0 turquoise;
+    
+}
+
+header p{
+    width: 301px;
+    height: 90px;
+    background: #fff;
+    border: 1px solid grey;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    text-align: center;
+    justify-content: center;
+    font-size: 60px;
+    margin: 5px;
+    padding: 5px;
+}
+
+header p:hover{
+    width: 301px;
+    height: 90px;
+    background: #fff;
+    border: 1px solid grey;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    text-align: center;
+    justify-content: center;
+    font-size: 60px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.i {
+    border-radius: 35px;
+    border: #000000 solid 1px;
+    display: block;
+    margin: auto;
+    height: 1000px;
+    width: 1400px;
+}
+
+.z {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    float: center;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 35px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 5px 0 royalblue;
+    margin: 10px;
+}
+
+.z:hover{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    color: black;
+    font-size: 40px;
+    float: center;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 35px;
+    box-shadow: 4px 4px 10px 0 royalblue;
+}
+body {
+    font-family: sans-serif;
+    background-color: turquoise;
+    float: center;
+}
+
+img {
+    width: 1400px;
+    height: 1000px;
+    border-radius: 10px;
+    float: center;
+    display: block;
+    margin: auto;
+    border: #fff solid 2px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+footer {
+    padding: 10px;
+    margin-top: 30px;
+}
+
+footer p {
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
