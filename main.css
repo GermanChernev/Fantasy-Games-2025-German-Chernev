@@ -38,7 +38,7 @@ header:hover{
     display: flex;
     justify-content: center;
     border-radius: 35px;
-    background-color: #fff;
+    background-image: linear-gradient(to right bottom,lightblue,white,lightblue,white,lightblue,lightblue,white,lightblue,white,lightblue);
 }
 
 h1 {
