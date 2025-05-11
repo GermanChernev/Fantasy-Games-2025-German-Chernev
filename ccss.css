@@ -93,8 +93,7 @@ header p:hover{
     text-align: center;
     border-radius: 35px;
     box-shadow: 4px 4px 10px 0 royalblue;
-    background-image: linear-gradient(to right bottom,lightblue,turquoise);
-    transition: 3s background-color linear;
+    transition: 1s linear;
 }
 body {
     font-family: sans-serif;
