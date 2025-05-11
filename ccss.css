@@ -23,6 +23,7 @@ header:hover{
     justify-content: center;
     border-radius: 35px;
     background-color: #fff;
+    transition: 0.5s linear;
 }
 
 h1 {
@@ -94,7 +95,7 @@ header p:hover{
     border-radius: 35px;
     background-color: #fff;
     box-shadow: 8px 8px 10px 0 royalblue;
-    transition: 0.3s linear;
+    transition: 0.15s linear;
 }
 body {
     font-family: sans-serif;
@@ -103,6 +104,16 @@ body {
 }
 
 img {
+    width: 1175px;
+    height: 900px;
+    border-radius: 10px;
+    float: center;
+    display: block;
+    margin: auto;
+    border: #fff solid 2px;
+}
+
+img:hover {
     width: 1400px;
     height: 1000px;
     border-radius: 10px;
@@ -110,6 +121,7 @@ img {
     display: block;
     margin: auto;
     border: #fff solid 2px;
+    transition: 0.5s linear;
 }
 
 .you {
