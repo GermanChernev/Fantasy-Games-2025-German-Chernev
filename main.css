@@ -80,9 +80,9 @@ a:hover {
     font-size: 40px;
     float: center;
     text-align: center;
-    background-color: #fff;
     border-radius: 35px;
     background-image: linear-gradient(to right bottom,lightblue,turquoise);
+    transition: 3s background-color linear;
 }
 
 p {
