@@ -91,9 +91,10 @@ header p:hover{
     font-size: 40px;
     float: center;
     text-align: center;
-    background-color: #fff;
     border-radius: 35px;
     box-shadow: 4px 4px 10px 0 royalblue;
+    background-image: linear-gradient(to right bottom,lightblue,turquoise);
+    transition: 3s background-color linear;
 }
 body {
     font-family: sans-serif;
