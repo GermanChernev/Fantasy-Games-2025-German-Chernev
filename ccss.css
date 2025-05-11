@@ -111,6 +111,16 @@ img {
     border: #fff solid 2px;
 }
 
+.you{
+    width: 1400px;
+    height: 1000px;
+    border-radius: 10px;
+    float: center;
+    display: block;
+    margin: auto;
+    border: #fff solid 2px;
+}
+
 a {
     color: blue;
     text-decoration: none;
