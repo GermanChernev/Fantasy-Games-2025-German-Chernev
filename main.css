@@ -13,7 +13,7 @@ img {
     margin: auto;
 }
 
-img:hover::after {
+img:hover {
     width: 1450px;
     height: 1000px;
     border-radius: 10px;
@@ -21,6 +21,7 @@ img:hover::after {
     display: block;
     margin: auto;
     border: #fff solid 2px;
+    transition: 0.5s linear;
 }
 
 header {
@@ -82,7 +83,7 @@ a:hover {
     text-align: center;
     border-radius: 35px;
     background-image: linear-gradient(to right bottom,lightblue,white,lightblue,white,lightblue);
-    transition: 3s background-color linear;
+    transition: 0.7s linear;
 }
 
 p {
