@@ -94,7 +94,7 @@ header p:hover{
     border-radius: 35px;
     background-color: #fff;
     box-shadow: 8px 8px 10px 0 royalblue;
-    transition: 1s linear;
+    transition: 0.3s linear;
 }
 body {
     font-family: sans-serif;
