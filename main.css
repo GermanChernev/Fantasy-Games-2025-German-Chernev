@@ -82,7 +82,7 @@ a:hover {
     text-align: center;
     background-color: #fff;
     border-radius: 35px;
-    b
+    background-image: linear-gradient(to right bottom,lightblue,turquoise);
 }
 
 p {
