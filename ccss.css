@@ -24,6 +24,7 @@ header:hover{
     border-radius: 35px;
     background-color: #fff;
     transition: 0.5s linear;
+    background-image: linear-gradient(to right bottom,lightblue,white,lightblue,white,lightblue,lightblue,white,lightblue,white,lightblue);
 }
 
 h1 {
