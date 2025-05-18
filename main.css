@@ -85,6 +85,7 @@ a:hover {
     border-radius: 35px;
     background-image: linear-gradient(to right bottom,lightblue,white,lightblue,white,lightblue);
     transition: 0.7s linear;
+    box-shadow: 8px 8px 10px 0 royalblue;
 }
 
 p {
