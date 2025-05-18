@@ -22,7 +22,7 @@ img:hover {
     margin: auto;
     border: #fff solid 2px;
     transition: 0.5s linear;
-    text-shadow: 4px 2px 0 navy;
+    text-shadow: 9px 2px 0 navy;
 }
 
 header {
