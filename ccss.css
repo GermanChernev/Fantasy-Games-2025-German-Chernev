@@ -25,6 +25,7 @@ header:hover{
     background-color: #fff;
     transition: 0.5s linear;
     background-image: linear-gradient(to bottom,lightblue,white,lightblue,white,lightblue,lightblue,white,lightblue,white,lightblue);
+    text-shadow: -4px 2px 0 navy;
 }
 
 h1 {
