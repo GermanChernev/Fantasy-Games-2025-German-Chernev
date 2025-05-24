@@ -1,23 +1,23 @@
 
 header {
     background-color: #000;
-    margin: 0 auto;
     text-align: center;
-    float: center;
-    display: flex;
-    justify-content: center;
     border-radius: 35px;
-    position: fixed;
+    margin: auto;
     top: 1px;
     width:100%;
     background-color: white;
     background-color: #fff;
+    text-align: center;
+    float: center;
+    display: flex;
+    justify-content: center;
 }
 
 header:hover{
     background-color: black;
-    margin: 0 auto;
     text-align: center;
+    margin: auto;
     float: center;
     display: flex;
     justify-content: center;
