@@ -127,7 +127,16 @@ footer p {
 }
 
 .z {
-    display: flex;
-    justify-content: center;
-    padding: 10px;
+    font-size: 30px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 5px 0 royalblue;
+    background-size: cover;
+    width: 50%;
+    display: block;
+    margin: 10px auto;
+    text-decoration: none;
+    background-color: #fff;
+    color: blue;
+    border-radius: 35px;
+    border: 2px solid black;
 }
