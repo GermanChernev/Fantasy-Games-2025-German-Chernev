@@ -83,8 +83,6 @@ header p:hover{
 }
 
 .z {
-    display: flex;
-    justify-content: center;
     font-size: 30px;
     float: center;
     text-align: center;
@@ -93,6 +91,11 @@ header p:hover{
     border: 2px solid black;
     box-shadow: 2px 2px 5px 0 royalblue;
     margin: 10px;
+    background-size: cover;
+    width: 50%;
+    display: block;
+    margin: 10px auto;
+
 }
 
 .z:hover{
