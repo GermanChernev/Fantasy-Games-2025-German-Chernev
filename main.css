@@ -1,6 +1,9 @@
 body {
     font-family: sans-serif;
-    background-color: turquoise;
+    background-image:
+    linear-gradient (to bottom,turquoise,blue),
+    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWXc290UOGO_GpIHFDLit5U4gC_9qnDN2CQ&s");
+    background-repeat: no-repeat;
     float: center;
 }
 
