@@ -158,6 +158,9 @@ a {
 p {
     font-size: 20px;
     text-align: center;
+    background-color: #fff;
+    border-radius: 35px;
+    border: 2px solid black;
 }
 
 footer {
