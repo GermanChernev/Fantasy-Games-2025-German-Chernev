@@ -141,8 +141,8 @@ img:hover {
 }
 
 .you {
-    width: 1400px;
-    height: 1000px;
+    width: 95%;
+    height: 55%;
     border-radius: 10px;
     float: center;
     display: block;
