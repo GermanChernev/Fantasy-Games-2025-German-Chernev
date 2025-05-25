@@ -1,2 +1,4 @@
 # Fantasy-Games-2025-German-Chernev 
 sos sos sus ssssususuusussusuusususususususuususus
+https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtL2VlNzMwMzEwN2M3NTQ5MzhiODRhNGQyZGI1NjJkMDc4X0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRF8wZjk0ZjAyMC01YjFlLTQ4YzgtOThmMi04ZGVkYzFiYmZjODE=
+план 
