@@ -142,8 +142,8 @@ img:hover {
 }
 
 .you {
-    width: 50%;
-    height: 65%;
+    width: 65%;
+    height: 75%;
     border-radius: 10px;
     float: center;
     display: block;
@@ -163,7 +163,7 @@ p {
     border-radius: 35px;
     border: 2px solid black;
     padding: 5px;
-    width: 62%;
+    width: 63%;
     margin: 10px auto;
 }
 
