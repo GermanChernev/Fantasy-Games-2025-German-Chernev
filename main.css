@@ -10,8 +10,8 @@ html {
 }
 
 img {
-    width: 35%;
-    height: 60%;
+    width: 600px;
+    height: 800px;
     border-radius: 10px;
     float: center;
     display: block;
@@ -19,8 +19,8 @@ img {
 }
 
 img:hover {
-    width: 1300px;
-    height: 1000px;
+    width: 50%;
+    height: 65%;
     border-radius: 10px;
     float: center;
     display: block;
