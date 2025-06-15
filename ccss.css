@@ -69,8 +69,8 @@ header p:hover{
     border: #000000 solid 1px;
     display: block;
     margin: auto;
-    height: 1000px;
-    width: 1300px;
+    width: 65%;
+    height: 75%;
 }
 
 .i:hover {
@@ -78,8 +78,8 @@ header p:hover{
     border: #000000 solid 1px;
     display: block;
     margin: auto;
-    height: 1000px;
-    width: 1300px;
+    width: 65%;
+    height: 75%;
 }
 
 .z {
