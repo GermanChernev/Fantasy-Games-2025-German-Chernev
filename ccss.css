@@ -157,13 +157,14 @@ a {
 }
 
 p {
-    font-size: 20px;
+    font-size: 24px;
     text-align: center;
     background-color: #fff;
     border-radius: 35px;
     border: 2px solid black;
     padding: 5px;
-    color: navy;
+    width: 60%;
+    margin: 10px auto;
 }
 
 footer {
